@@ -101,7 +101,7 @@ wheels = [
 ]
 
 [[package]]
-name = "coding-agent"
+name = "stor-agent"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
