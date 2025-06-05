@@ -14,8 +14,8 @@ The agent's definition is in the [.dagger/src/story_teller_agent/main.py](.dagge
 ## The results
 
 Here are the example stories generated based on the few repositories:
-| File | Description |
-|------|-------------|
+| Generated story | Repository story is based on |
+|-----------------|------------------------------|
 | [story-cognitive-lens.md](results/story-cognitive-lens.md) |[vonHousen/cognitive-lens](https://github.com/vonHousen/cognitive-lens) |
 | [story-moa.md](results/story-moa.md) | [vonHousen/cerebras-moa](https://github.com/vonHousen/cerebras-moa) |
 
